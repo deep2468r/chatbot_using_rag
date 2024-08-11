@@ -1,0 +1,8 @@
+{
+    "collection_name": "college_data",
+    "lm_name": "mistral",
+    "embedding_model": "mxbai-embed-large",
+    "vector_size": 1024,
+    "qa_filename": "./qa_data/qa_data_all.json",
+    "rag_config": "rag_mistral_all.json"
+}

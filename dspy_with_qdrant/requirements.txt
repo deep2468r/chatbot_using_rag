@@ -1,0 +1,9 @@
+"dspy-ai[qdrant]"
+ollama
+qdrant-client
+InstructorEmbedding
+torch
+sentence-transformers
+beautifulsoup4
+tqdm
+streamlit

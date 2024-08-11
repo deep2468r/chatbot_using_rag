@@ -1,0 +1,10 @@
+dspy-ai
+ollama
+psycopg2-binary
+pgvector-python
+InstructorEmbedding
+torch
+sentence-transformers
+beautifulsoup4
+tqdm
+streamlit
